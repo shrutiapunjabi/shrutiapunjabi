@@ -41,7 +41,7 @@ I combine **financial theory (CFA curriculum)** with **data science and machine 
 > In financial markets, even small predictive edges can be economically valuable when combined with proper risk management.
 
 🔗 **Project Repository:**  
-👉 https://github.com/YOUR_USERNAME/market-sentiment-fintech-project
+👉 https://github.com/shrutiapunjabi/market-sentiment-fintech-project
 
 ---
 
