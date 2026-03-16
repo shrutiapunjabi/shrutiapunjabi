@@ -150,9 +150,6 @@ Financial Machine Learning
 AI Applications in Finance
 
 ---
-## 📈 GitHub Activity
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shrutiapunjabi&theme=github)
 
 # 📊 GitHub Stats
 
