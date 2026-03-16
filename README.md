@@ -1,5 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B79A1,100:283E51&height=200&section=header&text=Shruti%20Punjabi&fontSize=40&fontColor=ffffff"/>
+
 # Hi, I'm Shruti Avinash Punjabi 👋
+
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Financial+Data+Science+Student;Machine+Learning+%7C+Econometrics;FinTech+Projects+%7C+Python;Building+AI+Tools+for+Finance&center=true&width=500&height=45">
 </p>
