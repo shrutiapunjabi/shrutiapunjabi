@@ -1,4 +1,8 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B79A1,100:283E51&height=200&section=header&text=Shruti%20Punjabi&fontSize=40&fontColor=ffffff"/>
 # Hi, I'm Shruti Avinash Punjabi 👋
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Financial+Data+Science+Student;Machine+Learning+%7C+Econometrics;FinTech+Projects+%7C+Python;Building+AI+Tools+for+Finance&center=true&width=500&height=45">
+</p>
 
 🎓 **MSc Financial Data Science** | UCD Michael Smurfit Graduate Business School
 📈 **CFA Level I Appeared**
@@ -12,7 +16,14 @@ I am passionate about applying **data science, econometrics, and machine learnin
 
 ### Programming & Data Science
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+## 🛠️ Skills
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge)
+![Econometrics](https://img.shields.io/badge/Econometrics-00599C?style=for-the-badge)
+![Finance](https://img.shields.io/badge/Finance-1E8449?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-F39C12?style=for-the-badge)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)
 
 ### Financial & Quantitative Skills
 
@@ -137,6 +148,9 @@ Financial Machine Learning
 AI Applications in Finance
 
 ---
+## 📈 GitHub Activity
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shrutiapunjabi&theme=github)
 
 # 📊 GitHub Stats
 
@@ -146,7 +160,9 @@ AI Applications in Finance
 
 ---
 
-# 📫 Connect With Me
+## 🤝 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shruti%20Punjabi-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shruti-punjabi-6a6848235/)
 
 LinkedIn
 https://www.linkedin.com/in/shruti-punjabi-6a6848235/
