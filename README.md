@@ -143,11 +143,11 @@ Objectives:
 
 # 📚 Areas of Interest
 
-•Financial Data Science
-•Quantitative Finance
-•FinTech Innovation
-•Financial Machine Learning
-•AI Applications in Finance
+• Financial Data Science
+• Quantitative Finance
+• FinTech Innovation
+• Financial Machine Learning
+• AI Applications in Finance
 
 ---
 
